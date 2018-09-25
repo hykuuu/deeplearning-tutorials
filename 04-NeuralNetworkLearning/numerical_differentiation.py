@@ -1,6 +1,7 @@
-# -*- coding: utf-8 -*-
-import numpy as np
-import matplotlib.pyplot as plt
+# -*- coding: utf-8 -*
+"""Numerical differentiation: Differentiating into very small differences.
+This is an approximate calculation method.
+"""
 
 
 def numerical_diff(f, x):
